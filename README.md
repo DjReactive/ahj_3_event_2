@@ -1,1 +1,1 @@
-# Домашнее задание DOM (1) [![Build status](https://ci.appveyor.com/api/projects/status/j4pogfg7wrgahhqw?svg=true)](https://ci.appveyor.com/project/DjReactive/ahj-2-dom)
+# Домашнее задание Event (2) [![Build status](https://ci.appveyor.com/api/projects/status/hb9wuasumfphrrp0?svg=true)](https://ci.appveyor.com/project/DjReactive/ahj-3-event-2)
